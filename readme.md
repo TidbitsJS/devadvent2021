@@ -48,3 +48,13 @@ That's why they introduced some new box sizes, in order to waste less paper/cart
 Santa himself asked for your help to develop an algorithm that can select the smallest possible box (but big enough for the item to fit) for any given item.
 
 Puzzle: [Puzzle 04](./puzzle-4/README.md)
+
+
+## Day 5
+
+The elves are about to prepare bags of candy that they want to add to each present this year (you know, everyone had a hard year with Covid still being around and all). Because Santa is a perfectionist, he wants no repeated candy in any of the bags.
+
+He asked you if you could write a program that creates bags of candy that has no repeated candy in it.
+
+Puzzle: [Puzzle 05](./puzzle-5/README.md)
+

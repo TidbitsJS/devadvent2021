@@ -1,0 +1,21 @@
+{
+    "name": "prepare-bags-of-candy",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon src/index.js --experimental-modules",
+        "test": "cross-env NODE_OPTIONS=--experimental-vm-modules jest"
+    },
+    "author": "Marc Backes",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^27.3.1",
+        "nodemon": "^2.0.15"
+    },
+    "dependencies": {
+        "cross-env": "^7.0.3",
+        "uuid": "^8.3.2"
+    },
+    "type": "module"
+}
