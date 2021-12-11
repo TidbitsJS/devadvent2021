@@ -26,7 +26,6 @@ It now is your job to create a list of all possible combinations of these drinks
 
 Puzzle: [Puzzle 02](./puzzle-2/README.md)
 
-
 ## Day 3
 
 [Yesterday's puzzle](./puzzle-2) was about creating the menu for the Elf Coffee Shop. The owner was very satisfied with the result.
@@ -38,7 +37,6 @@ It is your job to populate the API with the correct data, so it can be consumed 
 
 Puzzle: [Puzzle 03](./puzzle-3/README.md)
 
-
 ## Day 4
 
 You might not know this, but the Elf Post Service 📯 (ECS) is the largest parcel organization in the world. (For obvious reasons though, now that you think about, right?). They are ecologically responsible, so they continuously try to make everything more efficient, also when sending out packages.
@@ -49,7 +47,6 @@ Santa himself asked for your help to develop an algorithm that can select the sm
 
 Puzzle: [Puzzle 04](./puzzle-4/README.md)
 
-
 ## Day 5
 
 The elves are about to prepare bags of candy that they want to add to each present this year (you know, everyone had a hard year with Covid still being around and all). Because Santa is a perfectionist, he wants no repeated candy in any of the bags.
@@ -58,3 +55,12 @@ He asked you if you could write a program that creates bags of candy that has no
 
 Puzzle: [Puzzle 05](./puzzle-5/README.md)
 
+## Day 6
+
+You might have heard from the song Santa Claus is Coming to Town the lines:
+
+He's making a list. He's checking it twice. He's gonna find out who's naughty or nice
+
+Well, that is exactly what your task is for today: Write a program that checks a list of kids and analyze whether they were naughty or nice, so that Santa knows if they deserve candy and toys, or coal...
+
+Puzzle: [Puzzle 06](./puzzle-6/README.md)
