@@ -64,3 +64,13 @@ He's making a list. He's checking it twice. He's gonna find out who's naughty or
 Well, that is exactly what your task is for today: Write a program that checks a list of kids and analyze whether they were naughty or nice, so that Santa knows if they deserve candy and toys, or coal...
 
 Puzzle: [Puzzle 06](./puzzle-6/README.md)
+
+## Day 7
+
+There was a minor accident in the EPS (Elf Postal Service). The door of a delivery truck was not closed correctly, and some gifts fell in the snow.
+
+This caused some name tags to be smudged in a way that some of the letters are not recognized anymore.
+
+It is your task to recuperate the original names from the gift tags.
+
+Puzzle: [Puzzle 07](./puzzle-7/README.md)
