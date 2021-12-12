@@ -74,3 +74,12 @@ This caused some name tags to be smudged in a way that some of the letters are n
 It is your task to recuperate the original names from the gift tags.
 
 Puzzle: [Puzzle 07](./puzzle-7/README.md)
+
+## Day 11
+
+Some sections of the North Pole have restricted access, because they contain secrets, like Mrs. Claus's Hot Chocolate Recipe, codes to deactivate the invisibility shield around the village/factory, etc.
+
+These passwords are being changed regularly, and the person that changes it (head elf) just keeps it in his mind. However, it has been noticed that he keeps reusing old passwords.
+That's why the board has decided that passwords should be auto-generated.
+
+Puzzle: [Puzzle 11](./puzzle-11/README.md)
