@@ -14,7 +14,7 @@ Weeks before Christmas, Santa's reindeers start practicing their flying in order
 
 Now, Santa 🎅 needs YOUR help to find him.
 
-Puzzle: [Puzzle 01](./puzzle-1/README.md)
+Puzzle: [Puzzle 01](./puzzle-1)
 
 ## Day 2
 
@@ -24,7 +24,7 @@ Since this is new and confusing to the elves, especially because the pricing is 
 
 It now is your job to create a list of all possible combinations of these drinks (including those without extra flavor), and the pricing.
 
-Puzzle: [Puzzle 02](./puzzle-2/README.md)
+Puzzle: [Puzzle 02](./puzzle-2)
 
 ## Day 3
 
@@ -35,7 +35,7 @@ Due to the high demand, the savy entrepreneur hired someone to make an app where
 The only thing missing is a REST API to get the drinks.
 It is your job to populate the API with the correct data, so it can be consumed by the app.
 
-Puzzle: [Puzzle 03](./puzzle-3/README.md)
+Puzzle: [Puzzle 03](./puzzle-3)
 
 ## Day 4
 
@@ -45,7 +45,7 @@ That's why they introduced some new box sizes, in order to waste less paper/cart
 
 Santa himself asked for your help to develop an algorithm that can select the smallest possible box (but big enough for the item to fit) for any given item.
 
-Puzzle: [Puzzle 04](./puzzle-4/README.md)
+Puzzle: [Puzzle 04](./puzzle-4)
 
 ## Day 5
 
@@ -53,7 +53,7 @@ The elves are about to prepare bags of candy that they want to add to each prese
 
 He asked you if you could write a program that creates bags of candy that has no repeated candy in it.
 
-Puzzle: [Puzzle 05](./puzzle-5/README.md)
+Puzzle: [Puzzle 05](./puzzle-5)
 
 ## Day 6
 
@@ -63,7 +63,7 @@ He's making a list. He's checking it twice. He's gonna find out who's naughty or
 
 Well, that is exactly what your task is for today: Write a program that checks a list of kids and analyze whether they were naughty or nice, so that Santa knows if they deserve candy and toys, or coal...
 
-Puzzle: [Puzzle 06](./puzzle-6/README.md)
+Puzzle: [Puzzle 06](./puzzle-6)
 
 ## Day 7
 
@@ -73,7 +73,18 @@ This caused some name tags to be smudged in a way that some of the letters are n
 
 It is your task to recuperate the original names from the gift tags.
 
-Puzzle: [Puzzle 07](./puzzle-7/README.md)
+Puzzle: [Puzzle 07](./puzzle-7)
+
+## Day 8
+
+The elves are organizing a pre-Christmas party, and they want to organize a "secret santa".
+
+It is your job to write an algorithm that selects a secret santa for each participant.
+
+_The concept of "secret santa" is the following: Each participant is assigned a so-called "secret santa", a person that will have to get a thoughtful gift for that person.
+Usually this is in-person: All names are thrown in a hat, and each participant draws one. The paper you draw it the person you have to give a gift to. _
+
+Puzzle: [Puzzle 08](./puzzle-8)
 
 ## Day 11
 
@@ -82,4 +93,4 @@ Some sections of the North Pole have restricted access, because they contain sec
 These passwords are being changed regularly, and the person that changes it (head elf) just keeps it in his mind. However, it has been noticed that he keeps reusing old passwords.
 That's why the board has decided that passwords should be auto-generated.
 
-Puzzle: [Puzzle 11](./puzzle-11/README.md)
+Puzzle: [Puzzle 11](./puzzle-11)
