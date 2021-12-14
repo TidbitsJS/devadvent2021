@@ -86,6 +86,14 @@ Usually this is in-person: All names are thrown in a hat, and each participant d
 
 Puzzle: [Puzzle 08](./puzzle-8)
 
+## Day 9
+
+Santa received a strange looking file in his mailbox. It looks like it could be a hidden message.
+
+He needs your help to decypher the message in the file.
+
+Puzzle: [Puzzle 09](./puzzle-9)
+
 ## Day 11
 
 Some sections of the North Pole have restricted access, because they contain secrets, like Mrs. Claus's Hot Chocolate Recipe, codes to deactivate the invisibility shield around the village/factory, etc.
