@@ -94,6 +94,16 @@ He needs your help to decypher the message in the file.
 
 Puzzle: [Puzzle 09](./puzzle-9)
 
+## Day 10
+
+Winters at the North Pole can be harsh, which not only affects the elves, but also technology.
+Some of the train wagons that are used to transport materials, presents, etc. in and out of the North Pole are really old.
+In this hash weather, fauly breaks can cause accidents on the tracks.
+
+That is why you help the head mechanic elf to check today's train wagons if they're up to code or not.
+
+Puzzle: [Puzzle 10](./puzzle-10)
+
 ## Day 11
 
 Some sections of the North Pole have restricted access, because they contain secrets, like Mrs. Claus's Hot Chocolate Recipe, codes to deactivate the invisibility shield around the village/factory, etc.
