@@ -1,0 +1,16 @@
+{
+    "name": "puzzle-12-vite",
+    "version": "0.0.0",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview",
+        "test": "cross-env NODE_OPTIONS=--experimental-vm-modules jest"
+    },
+    "devDependencies": {
+        "cross-env": "^7.0.3",
+        "jest": "^27.4.4",
+        "vite": "^2.7.1"
+    },
+    "type": "module"
+}

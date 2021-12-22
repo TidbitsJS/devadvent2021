@@ -1,0 +1,161 @@
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1 {
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3rem;
+    font-weight: normal;
+}
+.xmas-tree-wrapper {
+    width: 700px;
+    height: 700px;
+    border: dashed 3px #ccc;
+    border-radius: 1rem;
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.xmas-tree {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.xmas-tree-star {
+    width: 40px;
+    height: 40px;
+    margin-bottom: -2%;
+    z-index: 12;
+    background-color: #ffe600;
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+    box-shadow: rgba(0, 0, 0, 0.2) 0 -1px 7px 1px, inset #808002 0 -1px 9px, #FF0 0 2px 12px;
+}
+
+
+/* create xmas tree */
+.xmas-tree-top {
+    width: 150px;
+    height: 100px;
+    background-color: #029b28;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    border-radius: 5%;
+    position: relative;
+    z-index: 10;
+}
+
+.xmas-tree1 {
+    width: 200px;
+    height: 150px;
+    background-color: #029b28;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    margin-top: -12%;
+    border-radius: 5%;
+    position: relative;
+    z-index: 8;
+}
+
+.xmas-tree2 {
+    width: 250px;
+    height: 200px;
+    background-color: #029b28;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    margin-top: -18%;
+    border-radius: 5%;
+    position: relative;
+    z-index: 6;
+}
+
+.xmas-tree-bottom {
+    width: 300px;
+    height: 250px;
+    background-color: #029b28;
+    margin-top: -25%;
+    border-radius: 5%;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    position: relative;
+    z-index: 4;
+}
+
+.xmas-tree-wood {
+    width: 60px;
+    height: 50px;
+    background-color: #240b0b;
+    border-radius: 10%;
+    margin-top: -1%;
+}
+
+.xmas-star {
+    width: 20px;
+    height: 20px;
+    background-color: #ffe600;
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+    box-shadow: rgba(0, 0, 0, 0.2) 0 -1px 7px 1px, inset #808002 0 -1px 9px, #FF0 0 2px 12px;
+}
+
+.xmas-light {
+    width: 20px;
+    height: 20px;
+    background-color: #F00;
+    border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.2) 0 -1px 7px 1px, inset #441313 0 -1px 9px, rgba(255, 0, 0, 0.5) 0 2px 2px;
+}
+
+
+.xmas-tree-top .xmas-star {
+    position: absolute;
+    bottom: 15%;
+    left: 25%;
+}
+
+.xmas-tree-top .xmas-light {
+    position: absolute;
+    bottom: 25%;
+    left: 55%;
+}
+
+.xmas-tree1 .xmas-star {
+    position: absolute;
+    bottom: 25%;
+    right: 25%;
+}
+
+.xmas-tree1 .xmas-light {
+    position: absolute;
+    bottom: 25%;
+    left: 35%;
+}
+
+.xmas-tree2 .xmas-star {
+    position: absolute;
+    bottom: 20%;
+    left: 25%;
+}
+
+.xmas-tree2 .xmas-light {
+    position: absolute;
+    bottom: 20%;
+    left: 55%;
+}
+
+.xmas-tree-bottom .xmas-star {
+    position: absolute;
+    bottom: 25%;
+    right:  25%;
+}
+
+.xmas-tree-bottom .xmas-light {
+    position: absolute;
+    bottom: 15%;
+    left: 25%;
+}
