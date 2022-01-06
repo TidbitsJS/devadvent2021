@@ -112,3 +112,20 @@ These passwords are being changed regularly, and the person that changes it (hea
 That's why the board has decided that passwords should be auto-generated.
 
 Puzzle: [Puzzle 11](./puzzle-11)
+
+## Day 12
+
+> This puzzle will be less a puzzle and more a challenge. It will be different from the JavaScript puzzles before 😉
+
+The elves are having a little competition about who makes the most beautiful art about a Christmas tree, and since you've been helping them out a great deal lately, they invited you to participate.
+
+Puzzle: [Puzzle 12](./puzzle-12)
+
+## Day 13
+
+For hundreds of years, the elves have been working with roman numerals. They use it everywhere - in file cabinets, in notes, etc.
+This was okay when the numbers were smaller. But some index cards sure are getting big, and the roman version of reading it is just not practical anymore.
+
+Therefore once again the head elf 🧝 counts on your help.
+
+Puzzle: [Puzzle 13](./puzzle-13)
