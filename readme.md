@@ -129,3 +129,22 @@ This was okay when the numbers were smaller. But some index cards sure are getti
 Therefore once again the head elf 🧝 counts on your help.
 
 Puzzle: [Puzzle 13](./puzzle-13)
+
+
+## Day 14
+
+When two elves have to decide who has to do a chore, sometimes they use an ancient game to determine which player will be free of work.
+
+The game is called Earth-Fire-Snow, and it works like this:
+The two players choose either one of _snow_, _earth_, or _fire_. Then, at the same time they announce their choice.
+The combination of the two defines who wins:
+
+-   Fire _melts_ snow
+-   Snow _covers_ earth
+-   Earth _extinguishes_ fire
+
+If both players select the same choice, it is a draw.
+
+Your task is it to create a digital version for this, when it comes up when the elves do some work from home.
+
+Puzzle: [Puzzle 14](./puzzle-14)
