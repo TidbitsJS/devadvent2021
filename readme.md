@@ -148,3 +148,13 @@ If both players select the same choice, it is a draw.
 Your task is it to create a digital version for this, when it comes up when the elves do some work from home.
 
 Puzzle: [Puzzle 14](./puzzle-14)
+
+
+## Day 15
+
+Elves are extremely looking forward to Christmas. So the closer December 25th gets, the more excited they are.
+Therefore Santa decided to make a big display of how much time left until Christmas, **in real-time**.
+
+You are in charge to create this display.
+
+Puzzle: [Puzzle 15](./puzzle-15)
