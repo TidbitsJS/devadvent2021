@@ -158,3 +158,14 @@ Therefore Santa decided to make a big display of how much time left until Christ
 You are in charge to create this display.
 
 Puzzle: [Puzzle 15](./puzzle-15)
+
+## Day 16
+
+To get home to the North Pole after his big night, Santa uses star constellations.
+But after a whole night of delivering presents to children all around the world, he is tired, so that doing the navigation is a hassle.
+
+Since on his way home, his sleigh flies at an altitude where it is not interfering with planes, drones, satellites, or other objects, it is safe to automate this.
+
+Help the elves develop an autopilot for Santa's Sleigh.
+
+Puzzle: [Puzzle 16](./puzzle-16)
