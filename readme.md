@@ -169,3 +169,12 @@ Since on his way home, his sleigh flies at an altitude where it is not interferi
 Help the elves develop an autopilot for Santa's Sleigh.
 
 Puzzle: [Puzzle 16](./puzzle-16)
+
+## Day 17
+
+While the head elf was replacing all existing password with the number generator made in [puzzle 11](https://github.com/devadvent/puzzle-11), he came upon one specific case where he actually forgot the password.
+It is a very old password, when security was not an issue, and we have access to the database to extract the _hashcode_ from the password.
+
+It is your job to extract the password from the given hash code.
+
+Puzzle: [Puzzle 17](./puzzle-17)
